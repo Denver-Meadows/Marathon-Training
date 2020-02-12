@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+    color: crimson;
+    background-color: lightgray;
+}
+
+.nav {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.miles_ran {
+    text-align: center;
+}
+
