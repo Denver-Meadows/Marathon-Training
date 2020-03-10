@@ -9,7 +9,14 @@ h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.miles_ran {
+.miles {
+    text-align: center;
+}
+
+table {
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
     text-align: center;
 }
 
